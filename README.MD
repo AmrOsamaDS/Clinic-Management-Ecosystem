@@ -71,15 +71,20 @@
   </tr>
 </table>
 
-#### **5. services management**
+#### **5. Services Management**
 
-services discovery 
-![clinic.png](images/services.png)
-
-
- Add/Edit services Profile 
-
-![clinic.png](images/services2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Services Discovery</b><br />
+      <img src="images/services.png" alt="Services Discovery" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Services Profile</b><br />
+      <img src="images/services2.png" alt="Add/Edit Services Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### **6. inventory Systems**
 
