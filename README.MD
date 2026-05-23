@@ -120,13 +120,19 @@
 
 
 #### **8. Scheduling & Billing Systems**
- Billing discovery 
-![clinic.png](images/invoice.png)
 
-
- Add/Edit invoice Profile 
-
-![clinic.png](images/invoice2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Billing Discovery</b><br />
+      <img src="images/invoice.png" alt="Billing Discovery" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Invoice Profile</b><br />
+      <img src="images/invoice2.png" alt="Add/Edit Invoice Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 #### **9. Executive Power BI Dashboard**
