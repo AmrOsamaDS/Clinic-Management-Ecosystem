@@ -103,14 +103,20 @@
 
 
 
- ### **7. Invoicing & Financial Records** 
- Appointment discovery 
-![clinic.png](images/appointment.png)
+#### **7. Appointments Booking**
 
-
- Add/Edit Appointment Profile 
-
-![clinic.png](images/appointment2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Appointment Discovery</b><br />
+      <img src="images/appointment.png" alt="Appointment Discovery" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Appointment Profile</b><br />
+      <img src="images/appointment2.png" alt="Add/Edit Appointment Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 #### **8. Scheduling & Billing Systems**
