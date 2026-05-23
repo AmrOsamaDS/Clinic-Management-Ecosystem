@@ -56,14 +56,20 @@
 </table>
 
 
+#### **4. Human Resources & Operations**
 
-#### **4. Human Resources &  Operations**
-
-Employee Management 
-![clinic.png](images/Employee.png)
-
-Add/Edit Employee Profile 
-![clinic.png](images/Employee2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Employee Management</b><br />
+      <img src="images/Employee.png" alt="Employee Management" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Employee Profile</b><br />
+      <img src="images/Employee2.png" alt="Add/Edit Employee Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
 #### **5. services management**
 
