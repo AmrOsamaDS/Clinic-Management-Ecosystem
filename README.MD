@@ -23,14 +23,20 @@
 *A centralized landing page containing interactive quick-access icons to seamlessly navigate between all 7 core modules.*
 ![clinic.png](images/HOME.png)
 
-
 #### **2. Doctors Management Module**
 
-Doctor Directory
-![clinic.png](images/doctor.png)
-
-Add/Edit Doctor Profile 
-![clinic.png](images/doctor2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Doctor Directory</b><br />
+      <img src="images/doctor.png" alt="Doctor Directory" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Doctor Profile</b><br />
+      <img src="images/doctor2.png" alt="Add/Edit Doctor Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
  *Searchable directory displaying full active medical staff, communication details, and quick filter options.* | *Dedicated entry form for managing doctor onboarding, custom commission rates, and active working days.* |
 
