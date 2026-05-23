@@ -42,11 +42,18 @@
 
 #### **3. Patient & Medical Records Modules**
 
-Patients Directory 
-![clinic.png](images/Patient.png)
-
-Add/Edit Patient Profile 
-![clinic.png](images/patient2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Patients Directory</b><br />
+      <img src="images/Patient.png" alt="Patients Directory" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Patient Profile</b><br />
+      <img src="images/patient2.png" alt="Add/Edit Patient Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 
