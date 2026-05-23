@@ -85,16 +85,20 @@
     </td>
   </tr>
 </table>
+#### **6. Inventory Systems**
 
-#### **6. inventory Systems**
-
-inventory discovery 
-![clinic.png](images/inventory.png)
-
-
- Add/Edit inventory Profile 
-
-![clinic.png](images/inventory2.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Inventory Discovery</b><br />
+      <img src="images/inventory.png" alt="Inventory Discovery" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Add/Edit Inventory Profile</b><br />
+      <img src="images/inventory2.png" alt="Add/Edit Inventory Profile" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 
